@@ -1,0 +1,8 @@
+{
+  "sites": [
+    { "name": "Portfólio", "url": "https://arthurentsev.vercel.app/" },
+    { "name": "LynowWorlds", "url": "https://lynow-worlds.vercel.app/" },
+    { "name": "LynowMic", "url": "https://lynowmic.vercel.app/" },
+    { "name": "GitHub", "url": "https://github.com/arthurlynow098", "expect_text": "arthurlynow098" }
+  ]
+}

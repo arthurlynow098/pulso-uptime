@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-<p align="center"><img src="assets/banner.png" alt="Pulso Uptime" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Pulso Uptime" width="100%"></p>
 
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-F43F5E?style=for-the-badge&logo=python&logoColor=white">
@@ -13,7 +13,7 @@
 
 <a id="sobre"></a>
 
-<p><img src="assets/secao-01.png" alt="Sobre o projeto" width="100%"></p>
+<p><img src="assets/secao-01.svg" alt="Sobre o projeto" width="100%"></p>
 
 Eu tenho alguns projetos publicados na Vercel (o portfólio, o LynowWorlds e o LynowMic) e mais de uma vez só descobri que algo tinha caído quando alguém me avisou. O Pulso resolve isso. Ele checa uma lista de sites, guarda o histórico, calcula o **uptime** e gera uma página de status estática, no estilo das que empresas grandes usam.
 
@@ -23,7 +23,7 @@ O melhor é que roda **de graça** dentro do GitHub Actions. Um workflow agendad
 
 <a id="como-funciona"></a>
 
-<p><img src="assets/secao-02.png" alt="Como funciona" width="100%"></p>
+<p><img src="assets/secao-02.svg" alt="Como funciona" width="100%"></p>
 
 ```mermaid
 flowchart LR
@@ -48,7 +48,7 @@ No [Lince Portscan](https://github.com/arthurlynow098/lince-portscan) eu usei th
 
 <a id="rodando"></a>
 
-<p><img src="assets/secao-03.png" alt="Rodando na sua máquina" width="100%"></p>
+<p><img src="assets/secao-03.svg" alt="Rodando na sua máquina" width="100%"></p>
 
 Só precisa de Python 3.10 ou mais novo. Edite o `sites.json` com os seus endereços.
 
@@ -81,7 +81,7 @@ pip install -r requirements-dev.txt
 python -m pytest -q
 ```
 
-<p><img src="assets/secao-04.png" alt="Exemplo de saída" width="100%"></p>
+<p><img src="assets/secao-04.svg" alt="Exemplo de saída" width="100%"></p>
 
 ```text
   UP   Portfólio                 413 ms   uptime  100.0%
@@ -94,7 +94,7 @@ python -m pytest -q
 
 <a id="aprendi"></a>
 
-<p><img src="assets/secao-05.png" alt="O que eu aprendi" width="100%"></p>
+<p><img src="assets/secao-05.svg" alt="O que eu aprendi" width="100%"></p>
 
 - A diferença prática entre threads e asyncio para trabalho de rede
 - Limitar concorrência com `Semaphore` para não derrubar o próprio alvo
@@ -110,7 +110,7 @@ Próximos passos
 
 <a id="estudos"></a>
 
-<p><img src="assets/secao-06.png" alt="Estudei por aqui" width="100%"></p>
+<p><img src="assets/secao-06.svg" alt="Estudei por aqui" width="100%"></p>
 
 Segui essas aulas e materiais para entender e aplicar tudo que está aqui.
 

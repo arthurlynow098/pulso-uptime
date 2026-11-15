@@ -1,0 +1,46 @@
+{
+ "Portfólio": [
+  {
+   "name": "Portfólio",
+   "url": "https://arthurentsev.vercel.app/",
+   "up": true,
+   "status": 200,
+   "latency_ms": 413.4,
+   "error": "",
+   "checked_at": "2026-11-15T10:40:59+00:00"
+  }
+ ],
+ "LynowWorlds": [
+  {
+   "name": "LynowWorlds",
+   "url": "https://lynow-worlds.vercel.app/",
+   "up": true,
+   "status": 200,
+   "latency_ms": 433.5,
+   "error": "",
+   "checked_at": "2026-11-15T10:40:59+00:00"
+  }
+ ],
+ "LynowMic": [
+  {
+   "name": "LynowMic",
+   "url": "https://lynowmic.vercel.app/",
+   "up": true,
+   "status": 200,
+   "latency_ms": 430.5,
+   "error": "",
+   "checked_at": "2026-11-15T10:40:59+00:00"
+  }
+ ],
+ "GitHub": [
+  {
+   "name": "GitHub",
+   "url": "https://github.com/arthurlynow098",
+   "up": true,
+   "status": 200,
+   "latency_ms": 705.7,
+   "error": "",
+   "checked_at": "2026-11-15T10:40:59+00:00"
+  }
+ ]
+}

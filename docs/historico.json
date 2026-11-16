@@ -17,6 +17,15 @@
    "latency_ms": 310.3,
    "error": "",
    "checked_at": "2026-11-16T04:21:34+00:00"
+  },
+  {
+   "name": "Portfólio",
+   "url": "https://arthurentsev.vercel.app/",
+   "up": true,
+   "status": 200,
+   "latency_ms": 135.7,
+   "error": "",
+   "checked_at": "2026-11-16T14:31:53+00:00"
   }
  ],
  "LynowWorlds": [
@@ -37,6 +46,15 @@
    "latency_ms": 347.4,
    "error": "",
    "checked_at": "2026-11-16T04:21:34+00:00"
+  },
+  {
+   "name": "LynowWorlds",
+   "url": "https://lynow-worlds.vercel.app/",
+   "up": true,
+   "status": 200,
+   "latency_ms": 182.9,
+   "error": "",
+   "checked_at": "2026-11-16T14:31:53+00:00"
   }
  ],
  "LynowMic": [
@@ -57,6 +75,15 @@
    "latency_ms": 297.5,
    "error": "",
    "checked_at": "2026-11-16T04:21:34+00:00"
+  },
+  {
+   "name": "LynowMic",
+   "url": "https://lynowmic.vercel.app/",
+   "up": true,
+   "status": 200,
+   "latency_ms": 138.6,
+   "error": "",
+   "checked_at": "2026-11-16T14:31:53+00:00"
   }
  ],
  "GitHub": [
@@ -77,6 +104,15 @@
    "latency_ms": 464.2,
    "error": "",
    "checked_at": "2026-11-16T04:21:35+00:00"
+  },
+  {
+   "name": "GitHub",
+   "url": "https://github.com/arthurlynow098",
+   "up": true,
+   "status": 200,
+   "latency_ms": 631.1,
+   "error": "",
+   "checked_at": "2026-11-16T14:31:53+00:00"
   }
  ]
 }
